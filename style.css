@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+#title2 {
+    color: #f00;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+
+
+}
+#title {
+    color: #f00;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+
+}
+.title2 {
+    color: aqua;
+    font-size: 50px;
+    margin: auto;
+    text-indent: 170px;
+
+}
+.tittle3 {
+    color: #fff;
+    font-size: 50px;
+
+
+}
+.paragraph {
+    color: #fff;
+    font-size: 20px;
+
+}
+
+.conntent {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.column {
+    width: 60%;
+    padding: 20px;
+}
